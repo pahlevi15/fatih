@@ -1,0 +1,1 @@
+var json_Bangunan_14 = {"type":"FeatureCollection","name":"Bangunan_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Rumah Fatih"},"geometry":{"type":"Point","coordinates":[109.09251491850695,-7.395299262864349]}}]}

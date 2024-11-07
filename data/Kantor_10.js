@@ -1,0 +1,1 @@
+var json_Kantor_10 = {"type":"FeatureCollection","name":"Kantor_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Kantor Balai Desa Candinegara"},"geometry":{"type":"Point","coordinates":[109.093337917155978,-7.382797351375695]}}]}
